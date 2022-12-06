@@ -57,7 +57,7 @@
                     <div class="box-width-3">
                         <p class="heading-1 wow fadeInLeftSmall">Богдана (САУ)</p>
                         <article class="quote-big wow fadeInLeftSmall" data-wow-delay=".1s">
-                            <p class="q">«Богдана» — українська колісна самохідна гаубиця, із стволом калібру 155 мм. .</p>
+                            <p class="q">«Богдана» — українська колісна самохідна гаубиця, із стволом калібру 155 мм.</p>
                         </article>
                         <div class="divider wow fadeInLeftSmall" data-wow-delay=".2s"></div>
                         <p class="wow fadeInLeftSmall" data-wow-delay=".3s"> Встановлена на шасі КрАЗ-63221. Гаубиця розробляється щонайменше з 2018 року. «Богдана» стала першою українською САУ, що розроблена під «натівський» калібр 155 мм.[1]
@@ -106,6 +106,8 @@
                             </article>
                         </div>
                     </div>
+
+
                 </div>
             </div>
         </div>
