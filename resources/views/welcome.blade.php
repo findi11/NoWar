@@ -19,7 +19,7 @@
                 <img class="d-block w-100" src="./public/images/01001p68-0d01_1280x720.jpeg"
                     alt="Second slide">
             </div>
-           
+
             <div class="carousel-item">
                 <img class="d-block w-100"
                     src="./public/images/384.jpg"
