@@ -50,7 +50,7 @@
         <div class="shell">
             <div class="range range-50 range-sm-center range-md-left range-md-middle range-md-reverse">
                 <div class="cell-sm-6 wow fadeInRightSmall">
-                    <div class="thumb-line"><img src="https://defence-ua.com/media/illustration/articles/7d3605a088f05dd2.jpg" alt="" width="531" height="640"/>
+                    <div class="thumb-line"><img src="https://img.pravda.com/images/doc/2/9/2951e9c-bogdana-garmata-original.jpg" alt="" width="531" height="640"/>
                     </div>
                 </div>
                 <div class="cell-sm-6">
