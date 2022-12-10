@@ -15,4 +15,11 @@ use Illuminate\Support\Facades\Route;
 
 Route::get('/', function () {
     return view('welcome');
+    
+});
+Route::get('/oplote', function () {
+    return view('oplote');
+});
+Route::get('/bogdan', function () {
+    return view('bogdan');
 });
